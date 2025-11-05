@@ -126,7 +126,6 @@ Llevamos el poder de las mejores estrategias y tecnologías, a un formato que la
 ## 🚀 ¿Listo para Tu Salto al Éxito Digital?
 
 ### 📞 **Contacto Directo**
-- **WhatsApp:** [+502 5015-2574](https://wa.me/50250152574)
 - **Email:** [hola@paracaidas.digital](mailto:hola@paracaidas.digital)
 - **Calendario:** [Agenda tu consulta gratuita de 15 minutos](https://calendly.com/paracaidas-digital/llamada-gratis-de-15-minutos)
 
