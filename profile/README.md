@@ -148,7 +148,6 @@ Llevamos el poder de las mejores estrategias y tecnologías, a un formato que la
 
 **¿El acantilado está frente a ti? El paracaídas, también.**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50250152574)
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/paracaidas-digital/llamada-gratis-de-15-minutos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@paracaidas.digital)
 
