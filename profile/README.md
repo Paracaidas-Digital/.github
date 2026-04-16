@@ -132,7 +132,6 @@ Llevamos el poder de las mejores estrategias y tecnologías a un formato que las
 
 ### 📞 **Contacto Directo**
 - **Email:** [hola@paracaidas.digital](mailto:hola@paracaidas.digital)
-- **WhatsApp:** [+502 5015-2574](https://wa.me/50250152574)
 - **Web:** [paracaidas.digital](https://paracaidas.digital)
 
 ### ⏰ **Horarios de Atención**
