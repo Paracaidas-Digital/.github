@@ -153,7 +153,7 @@ Llevamos el poder de las mejores estrategias y tecnologías a un formato que las
 **¿El acantilado está frente a ti? El paracaídas, también.**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@paracaidas.digital)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50250152574)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50255023846)
 [![Web](https://img.shields.io/badge/Web-9311D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paracaidas.digital)
 
 *Paracaídas Digital — Toda gran Visión necesita un Aterrizaje Perfecto.*
